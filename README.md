@@ -8,6 +8,10 @@
 </p>
 
 
+<br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a52cb6c5-2b6c-4e6a-a123-c105a45ea5a5">
+</p>
 ## 시작 가이드
 
 ### 요구사항
