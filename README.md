@@ -4,7 +4,7 @@
 
 # 구동모습
 <p align="center">
-<img src="https://github.com/user-attachments/assets/827e69e1-06af-4368-add4-acfcb514dc7e](https://github.com/user-attachments/assets/b829ef9d-6f26-41eb-b845-3e71a3c889f1">
+<img src="https://github.com/user-attachments/assets/e84ab43e-cbe8-49ad-b107-67471a4966d2">
 </p>
 
 
