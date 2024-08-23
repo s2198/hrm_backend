@@ -2,8 +2,10 @@
 안녕하세요. HRM 업무가자동화되지않은스타트업, 중소기업을 위한스마트HRM 플랫폼 만들었습니다. 
 
 
-
-
+# 구동모습
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0ea426d3-e165-4173-90ff-6ee576908603">
+</p>
 
 
 ## 시작 가이드
